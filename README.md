@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Please choose one or more challenges, fork this repo, and implement your solution in the appropriate directory.
+**Please choose one or more challenges, fork this repo, and implement your solution in the appropriate directory.**
 
 Explain your solution in the README as you would for documenting your code to hand off to a team and to answer the bonus questions if you choose.
 
